@@ -1,0 +1,513 @@
+header{
+    background: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%  100%;
+}
+ul li {
+    list-style: none;
+ }
+ .btn:focus{
+    border-color: inherit;
+    box-shadow: none;
+  }
+.navbar-nav a{
+    margin-left: 18px;
+    color: white !important;
+}
+.navbar-nav a:hover{
+ text-decoration: underline;
+ text-decoration-color: #fb414e;
+}
+.navbar-light .navbar-toggler-icon{
+    background-image: url(logos/icon.png);
+}
+#HeaderSection h1{
+    font: 900 60px 'Source Sans Pro', sans-serif;
+    color: #fff;
+    text-align: center;
+    margin-top: 125px;
+}
+#HeaderSection p{
+    max-width: 659px;
+    height: 68px;
+    font: 300 16px/28px 'Roboto', sans-serif;
+    color: #fff;
+    text-align: center;
+    margin: auto;
+    margin-top: 70px;
+}
+#HeaderSection {
+    padding-bottom: 245px ;
+}
+.d-flex button{
+margin-top: 67px;
+}
+#HeaderSection button{
+    width: 190px;
+    height: 50px;
+    border-radius: 0;
+    margin-right: 30px;
+    color: white;
+}
+.NescafeActive {
+    background-color: #fb414e !important;
+  }
+  .nescafe {
+    background-color: #202b30;
+    margin-left: 20px;
+  }
+  .nescafe img {
+    margin-top: 75px;
+    margin-left: 55px;
+  }
+  .nescafe h3 {
+    font: 500 20px/100px "Roboto", sans-serif;
+    color: #fff;
+    margin-left: 60px;
+  }
+  .nescafe hr {
+    width: 50px;
+    height: 4px;
+    background-color: #fff;
+    border: none;
+    float: left;
+    margin-left: 60px;
+  }
+  .nescafe p {
+    clear: both;
+    width: 306px;
+    font: 300 16px/28px "Roboto", sans-serif;
+    color: #fff;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-bottom: 75px;
+  }
+  #Nescafe{
+      transform: translate(0,-90px);
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+  #Services h2{
+    font: 700 16px "Roboto", sans-serif;
+    color: #fb414e;
+    text-align: center;
+    margin-top: 100px;
+}
+#h1{
+    font: 700 60px 'Source Sans Pro', sans-serif;
+    color: #1f1f1f;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+#info{
+    font: 300 16px/28px  "Roboto", sans-serif;
+    max-width: 679px;
+    height: 41px;
+    font-weight: 300;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 130px;
+}
+
+.service h1{
+    font:700 32px 'Source Sans Pro', sans-serif;
+    color: #1f1f1f;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.service  p{
+    font: 300 16px/28px "Roboto", sans-serif;
+    max-width: 308px;
+    height: 71px;
+    color: #838383;
+    text-align: center;
+}
+.services2 div{ 
+    margin-top: 70px;
+    margin-bottom: 145px;
+}
+.service img{
+    display:block;
+    margin:auto;
+}
+#StartNow{
+    background-color: #202b30;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-top: 132px;
+    padding-bottom: 130px;
+}
+#detailed h1{
+    font: 700 38px 'Source Sans Pro', sans-serif;
+    color: #fff;
+    max-width: 615px;
+    margin-bottom: 60px;
+}
+#detailed p{
+    max-width: 591px;
+    font: 300 16px/28px "Roboto", sans-serif;
+    color: #fff;
+}
+#StartNow button{
+    width: 190px;
+    height: 50px; 
+    border-radius: 0;
+    border: 2px solid #fff;
+    color: #fff;
+}
+#StartNow img{
+    margin-left: 40px;
+}
+
+
+
+#Quality{
+    background-color: #f8f8f8;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-top: 140px;
+    padding-bottom: 75px;
+}
+.option ul h1{
+    font: 600 20px 'Source Sans Pro', sans-serif;
+    color: #1f1f1f;
+}
+.option ul p{
+    font: 300 16px/28px "Roboto", sans-serif;
+    width: 282px;
+    height: 71px;
+    color: #838383;
+    margin-top: 25px;
+}
+
+.option ul{
+    margin-bottom: 80px;
+    padding-inline-start: 0;
+    margin-right: 43px;
+}
+.optionX h1{
+    font: 700 43px 'Source Sans Pro', sans-serif;
+    color: #1f1f1f;
+    width: 588px;
+    margin-bottom: 58px;
+}
+.optionX p{
+    font: 300 16px/28px "Roboto", sans-serif;
+    max-width: 571px;
+    color: #838383;
+    margin: auto;
+}
+.option ul li {
+   list-style: none;
+}
+#xp{
+    margin-top: 40px;
+}
+
+
+
+
+
+#Works ul{
+    margin-top: 140px;
+    margin-bottom: 56px;
+    display: flex;
+    justify-content: center;
+}
+#Works ul li a{
+    font: 400 16px 'Source Sans Pro', sans-serif;
+    margin-right: 70px;
+    color: #868383 !important;
+}
+#Works ul a:hover{
+    color: black !important;
+}
+.images img{
+    max-width: 318px;
+    margin: 5px;
+}
+#Works{
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-bottom: 140px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#clients{
+    padding-bottom:125px ;
+}
+#clients h1{
+    font: 700 48px 'Source Sans Pro', sans-serif;
+    color: #1f1f1f;
+    margin-bottom: 60px;
+}
+#clients p{
+    max-width: 597px;
+    font: 300 16px/28px "Roboto", sans-serif;
+    color: #1f1f1f;
+    margin-bottom: 0px;
+}
+.videoPart img{
+    max-width: 480px;
+    height: 400px;
+    margin: auto;
+    padding-top: 15px;
+}
+.videoPart img:hover{
+    cursor: pointer;
+}
+#clients button{
+    width: 190px;
+    height: 50px;
+    font: 400 16px  "Roboto", sans-serif;
+    border-radius: 0;
+    color: #1f1f1f;
+    margin-top: 65px;
+    border: 2px solid black;
+}
+.side {
+    background-color: #202b30;
+    padding-top: 140px;
+}
+#com1 :nth-child(1){
+    margin-top: 33px;
+}
+#com1 img{
+    margin-bottom: 90px;
+}
+#com2 img{
+    margin-bottom: 105px;
+}
+#com1 ,#com2{
+    margin-right: 30px;
+}
+.company1 h1{
+    font: 700 43px 'Source Sans Pro', sans-serif;
+    font-size: 43px;
+    color: #ffffff;
+    text-align: right;
+    max-width: 609px;
+}
+.company1 p{
+    max-width: 591px;
+    font: 300 16px/28px "Roboto", sans-serif;
+    color: #fff;
+    text-align: right;
+    margin-top: 60px;
+}
+#Handcrafted{
+    background-color: #f8f8f8;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+#sut1{
+    max-width: 530px;
+}
+.col1 {
+    margin-top: 80px;
+}
+.col1 h1{
+    font-size: 43px;
+    color: #1f1f1f;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+}
+.col2 h2{
+    color: #5e5e5e;
+    font: 400 20px 'Source Sans Pro', sans-serif;
+    text-align: start;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.col2 p{
+    max-width: 320px;
+    height: 71px;
+    font: 300 16px/28px "Roboto", sans-serif;
+    color: #838383;
+    margin-right: 20px;
+    margin-bottom: 140px;
+}
+#OnlyP{
+    max-width: 591px;
+    height: 70px;
+    font:300 16px/28px "Roboto", sans-serif;
+    color: #838383 !important;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#project h1{
+    font: 700 50px 'Source Sans Pro', sans-serif;
+    color: #000000;
+    text-align: right;
+    max-width: 560px;
+    margin-bottom: 55px;
+}
+#project p{
+    font: 300 16px/28px "Roboto", sans-serif;
+    max-width: 497px;
+    color: #838383;
+    text-align: right;
+    margin-inline-start: 55px;
+}
+.part1 {
+    margin-right: 80px;
+}.part2{
+    margin-top: 20px;
+}
+#project {
+    padding-top: 140px;
+}
+#project button{
+    font: 400 16px  "Roboto", sans-serif;
+    color: #fff;
+    text-align: center;
+    background-color: #fb414e;
+    height: 50px;
+    border-radius: 0;
+}
+.part2 input{
+    font: 300 14px/100px "Roboto", sans-serif;
+    margin: auto;
+    height: 50px;
+    border-radius: 0px;
+    color: #000;
+    text-align: left;
+    border: 1px solid black;
+    text-indent: 10px;
+}
+#project textarea{
+    font: 300 14px "Roboto", sans-serif;
+    resize: none;
+    color: #000000;
+    text-align: left;
+    height: 265px;
+    text-indent: 18px;
+    padding-top: 17px;
+    border: 1px solid black;
+}
+.part2 input::placeholder{
+    color: black;
+}
+#project textarea::placeholder{
+    color: black;
+}
+.form-control{
+    height: 50px;
+    font: 300 14px "Roboto", sans-serif;
+    color: #000;
+    text-align: center;
+}
+#inputState{
+    text-indent: 15px;
+    border: 0;
+    outline: 1px inset black; 
+}
+.form-control:focus {
+    border-color: inherit;
+    box-shadow: none;
+  }
+  textarea:focus{
+    outline: 0;
+}
+#btn{
+    margin-top: 40px;
+    margin-bottom: 135px;
+}
+#footer nav{
+    padding-top: 100px;
+}
+#contact{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 103px;
+}
+#contact1 h1{
+    font: 500 16px "Roboto", sans-serif;
+    color: #fff;
+    text-align: left;
+}
+#contact1 p{
+    max-width: 359px;
+    font: 300 16px/28px "Roboto", sans-serif;
+    color: #fff;
+    margin-top: 30px;
+    opacity: .7;
+}
+#contact1 ul li {
+    width: 30px;
+    height: 30px;
+    background-color: #fb414d;
+    border-radius: 50%;
+    margin-right: 25px;
+    position: relative;
+    margin-top: 100px;
+}
+#contact1 ul{
+    padding-inline-start: 0px;
+}
+#contact1 a{
+    color: white;
+    text-decoration: none;
+}
+#contact1 i{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    color: black;
+    opacity: .8;
+}
+#contact2 h1{
+    font: 500 16px "Roboto", sans-serif;
+    color: #fff;
+    text-align: right;
+    margin-bottom: 33px;
+}
+#contact2{
+    width: 530px;
+}
+#contact2 button{
+    width: 130px;
+    background-color: #fb414e;
+    outline: none;
+    border: none;
+}
+#contact2 .form-control{
+   border: 1px solid white;
+    text-indent: 10px;
+    border-radius: 0;
+    text-align: left;
+}
+#contact2 .form-control::placeholder{
+    text-align: left;
+}
+#contact2 p{
+    font: 300 14px/28px "Roboto", sans-serif;
+    color: #586165;
+    text-align: right;
+    margin-top: 110px;
+}

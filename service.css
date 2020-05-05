@@ -1,0 +1,73 @@
+header{
+    background: url(img/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%  100%;
+}
+.navbar{
+    padding-left: 0px;
+}
+.navbar-nav a{
+    margin-left: 18px;
+    color: white !important;
+    text-decoration: none;
+    font: 500 16px 'Roboto', sans-serif;
+    text-align: center;
+}
+.navbar-nav a:hover{
+    text-decoration: underline;
+    text-decoration-color: #fff;
+}
+.navbar-light .navbar-toggler-icon{
+    background-image: url(logos/icon.png);
+}
+#service h2{
+    font: 700 16px 'Roboto', sans-serif;
+    color: #fff;
+    margin-top: 160px;
+}
+#service h1{
+    font: 700 60px 'Source Sans Pro', sans-serif;
+    max-width: 915px;
+    color: #fff;
+    margin: 35px 0 60px 0;
+}
+#service p{
+    max-width: 679px;
+    font-size: 16px;
+    line-height: 28px;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+#service{
+    padding-bottom: 250px;
+}
+.information {
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+.info-part1{
+    margin-left: 110px;
+}
+.head-info{
+    font: 700 32px 'Source Sans Pro', sans-serif;
+    color: #1f1f1f;
+    margin-bottom: 30px;
+    max-width: 470px;
+}
+.explanation{
+    max-width: 800px;
+    font: 300 16px/28px 'Roboto', sans-serif;
+    color: #838383;
+}
+.photos img{
+    width: 250px;
+}
+.information2{
+    padding-top: 130px;
+    padding-bottom: 130px;
+    background-color: #f7f7f7;
+}
+.information2 img{
+    margin-left: 103px;
+}

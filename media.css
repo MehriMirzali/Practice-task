@@ -1,0 +1,308 @@
+@media only screen and (max-width:768px){
+    #Nescafe .d-flex{
+        flex-direction: column;
+    }
+    .nescafe{
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    .services1 , .services2{
+        display: flex;
+        flex-direction: column;
+    }
+    .service  p{
+        margin: auto;
+    }
+    .services2 div{ 
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .service img{
+        margin:auto;
+        margin-top: 50px;
+    }
+    #StartNow{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin: auto;
+        margin-top: 100px;
+        padding-bottom: 50px;
+    }
+    #detailed{
+        display: flex;
+        flex-direction: column;
+    }
+    #StartNow img{
+        margin-left: 0;
+        margin: auto;
+        margin-top: 70px ;
+        width: 100%;
+    }
+    #StartNow .container{
+        display: flex;
+        flex-direction: column;
+    }
+    #detailed h1 , p{
+        text-align: center;
+    }
+    #detailed button{
+        margin: auto;
+        margin-top: 80px;
+    }
+    #Start4{
+        display: none;
+    }
+    #info{
+        margin-bottom: 60px;
+    }
+    #clients .container{
+        display: flex;
+        flex-direction: column;
+    }
+    #clients h1{
+        text-align: center;
+    }
+    #clients button{
+      display: flex;
+      justify-content: center;
+      margin: auto;
+      margin-top: 30px;
+    }
+    .side .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    } 
+    .company1 h1{
+        text-align: center;
+    }
+    .company1  p{
+        text-align: center;
+        padding-bottom: 80px;
+    }
+    #com1 , #com2{
+        margin-right: 0px;
+        margin: auto;
+    }#Handcrafted{
+        width: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .main{
+        display: flex;
+        flex-direction: column;
+    }
+    .col1 h1{
+       text-align: center;
+       margin: auto;
+    }
+    .col2 img{
+        display: flex;
+        margin: auto;
+        margin-top: 50px;
+    }
+    .col2 p {
+        margin-right: 0px;
+    }
+    .col2 h2{
+        text-align: center;
+    }
+    #project div{
+        display: flex;
+        flex-direction: column;
+    }
+    .part1 h1{
+        text-align: center;
+    }
+    #project p{
+       text-align: center;
+       margin: auto;
+    }
+    .part1{
+        margin: 20px;
+    }
+    #project {
+        padding-top: 80px;
+    }
+    #contact2{
+        width: 300px;
+        margin: auto;
+    }
+        #contact{
+        display: flex;
+        flex-direction: column;
+        }
+    #contact1 h1{
+        text-align: center;
+        margin-top: 20px;
+    }
+    #contact1 p{
+        text-align: center;
+        margin: auto;
+        margin-top: 20px;
+    }
+    #contact2 p{
+        text-align: center;
+    }
+    #contact2 h1{
+        text-align: center;
+    }
+    #contact ul{
+       text-align: center;
+       justify-content: center;
+       margin-top: 10px;
+    }
+    #contact1 ul li{
+        margin-top: 20px;
+        margin-right: 0px;
+    }
+    #contact1 ul{
+        justify-content: space-evenly;
+        padding-bottom: 30px;
+    }
+   #contact2 button{
+       margin: auto;
+       width: 300px;
+   }
+   #Quality {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+    #Quality .container{
+        display: flex;
+        flex-direction: column;
+    }
+    #Quality h1 ,p{
+        text-align: center;
+        margin: auto;
+    }
+    .option ul{
+        margin-right: 0px;
+    }
+    .optionX h1{
+        padding-bottom: 50px;
+        width: 400px;
+        margin: auto;
+    }
+    #Works .container{
+        display: flex;
+        flex-direction: column;
+    }
+    #Works{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    #Works ul li a{
+        margin-right: 0px;
+    }
+    #Works ul{
+        flex-direction: column;
+        text-align: center;
+        margin-top: 20px;
+        padding-inline-start: 0px;
+    }
+    .images img{
+        max-width: 220px;
+       }
+}
+
+@media only screen and (max-width:768px){
+    #service h2{
+        text-align: center;
+        margin-top: 60px;
+     }
+     #service h1{
+         text-align: center;
+         margin-top: 50px;
+     }
+     #service p{
+        text-align: center;
+     }
+    .information div{
+        display: flex;
+        flex-direction: column;
+    }
+    .information2 div{
+        display: flex;
+        flex-direction: column;
+    }
+    .photos img{
+        margin: auto;
+    }
+    .head-info{
+        text-align: center;
+        margin: auto;
+        margin-bottom: 40px;
+        margin-top: 40px;
+    }
+    .info-part1{
+        margin-left:0px;
+    }
+    .explanation{
+        text-align: center;
+        padding-bottom: 50px;
+    }
+    #project div{
+        display: flex;
+        flex-direction: column;
+    }
+    .part1 h1{
+        text-align: center;
+    }
+    #project p{
+       text-align: center;
+       margin: auto;
+    }
+    .part1{
+        margin: 20px;
+    }
+    #project {
+        padding-top: 80px;
+    }
+    #footer div{
+        flex-direction: column;
+    }
+    #contact2{
+        width: 300px;
+        margin: auto;
+    }
+        #contact{
+        display: flex;
+        flex-direction: column;
+        }
+    #contact1 h1{
+        text-align: center;
+        margin-top: 20px;
+    }
+    #contact1 p{
+        text-align: center;
+        margin: auto;
+        margin-top: 20px;
+    }
+    #contact2 p{
+        text-align: center;
+    }
+    #contact2 h1{
+        text-align: center;
+    }
+    #contact ul{
+       text-align: center;
+       justify-content: center;
+       margin-top: 10px;
+    }
+    #contact1 ul li{
+        margin-top: 20px;
+        margin-right: 0px;
+     
+    }
+    #contact1 ul{
+        justify-content: space-evenly;
+        padding-bottom: 30px;
+    }
+   #contact2 button{
+       margin: auto;
+       width: 300px;
+   }
+}
